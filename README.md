@@ -13,3 +13,6 @@ base-devel
 #### https://www.tcl-lang.org/
 
 ## Since I couldn't find a native package, and the installation isn't very intuitive, I created a PKGBUILD to make it easier.
+
+
+### Note: At this time, the "[tcl](https://archlinux.org/packages/extra/x86_64/tcl)" package is in the Arch Linux repositories, "[tcllib]()" is only in the AUR, and "tclvfs" is not in either.
